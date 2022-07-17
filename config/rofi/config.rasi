@@ -1,0 +1,12 @@
+@import "~/.cache/wal/colors-rofi-dark"
+
+element-text {
+ background-color: inherit;
+ text-color: inherit;
+}
+
+configuration {
+ modi: "window,drun,ssh,combi,emoji:/usr/bin/rofimoji";
+ font: "Source Code Pro Regular 10";
+ combi-modi: "window,drun,ssh,emoji:/usr/bin/rofimoji";
+}

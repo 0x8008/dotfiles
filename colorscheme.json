@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/bw/Documents/82454108_p0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060D15",
+        "foreground": "#98c0d3",
+        "cursor": "#98c0d3"
+    },
+    "colors": {
+        "color0": "#060D15",
+        "color1": "#264A60",
+        "color2": "#255370",
+        "color3": "#436274",
+        "color4": "#1D648B",
+        "color5": "#2B6B8E",
+        "color6": "#457896",
+        "color7": "#98c0d3",
+        "color8": "#6a8693",
+        "color9": "#264A60",
+        "color10": "#255370",
+        "color11": "#436274",
+        "color12": "#1D648B",
+        "color13": "#2B6B8E",
+        "color14": "#457896",
+        "color15": "#98c0d3"
+    }
+}
